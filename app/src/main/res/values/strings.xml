@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyFooty</string>
+
+    <!-- Strings related to login -->
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="error_loading_repos">Erreur de connexion </string>
+    <string name="price_text">%.2f €</string>
+    <string name="no_connection_alert">Aucune connexion Internet</string>
+    <string name="success_add_to_cart_message">Votre %1$d element(s) dans le panier : %2$s est enregistré avec succés !</string>
+
+    <string name="commands_empty_message">Pas de menu burger a afficher</string>
+    <string name="burger_empty_message">Pas de menu burger a afficher</string>
+    <string name="cancel">Annuler</string>
+    <string name="loading_burgers_progress_text">Loading Burger Menu ...</string>
+    <string name="quantity_text">Quantité : %s</string>
+    <string name="sum_price_text">Prix du somme: %s</string>
+    <string name="total_price">Le prix totale est : %.2f €</string>
+    <string name="error_network_title">Erreur de connexion</string>
+
+
+    <!-- Date Util -->
+    <string name="date_util_term_less">less than</string>
+    <string name="date_util_term_a">a</string>
+    <string name="date_util_term_an">an</string>
+
+    <string name="date_util_unit_second">second</string>
+    <string name="date_util_unit_seconds">seconds</string>
+    <string name="date_util_unit_minute">minute</string>
+    <string name="date_util_unit_minutes">minutes</string>
+    <string name="date_util_unit_hour">hour</string>
+    <string name="date_util_unit_hours">hours</string>
+    <string name="date_util_unit_day">day</string>
+    <string name="date_util_unit_days">days</string>
+    <string name="date_util_unit_month">month</string>
+    <string name="date_util_unit_months">months</string>
+    <string name="date_util_unit_year">year</string>
+    <string name="date_util_unit_years">years</string>
+
+    <string name="date_util_prefix_lt">less than a</string>
+    <string name="date_util_prefix_about">about</string>
+    <string name="date_util_prefix_over">over</string>
+    <string name="date_util_prefix_almost">almost</string>
+
+    <string name="date_util_suffix">ago</string>
+
+    <string name="text_favorites">Favorites</string>
+    <string name="text_schedules">Schedules</string>
+    <string name="text_music">Music</string>
+    <string name="share">Share</string>
+    <string name="more_details">More details ...</string>
+    <string name="source">Source: %s</string>
+    <string name="author">Author:%s</string>
+    <string name="points">Points:%d</string>
+    <string name="rank">Rank:%d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
